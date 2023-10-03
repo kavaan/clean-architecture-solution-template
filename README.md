@@ -4,7 +4,7 @@ When embarking on a new project, have you ever found yourself spending considera
 
 As a developer, you don’t always have to start from scratch. You can leverage existing projects written in your preferred language or framework, saving both time and money. Some of these readily available projects are listed below:
 
-<img src="https://raw.githubusercontent.com/kavaan/clean-architecture-solution-template/main/final-7.png"/>
+<img src="https://raw.githubusercontent.com/kavaan/clean-architecture-solution-template/main/final-8.png"/>
 
 <h2>.Net Core (C#)
 </h2>
