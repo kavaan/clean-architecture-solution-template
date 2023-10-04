@@ -55,6 +55,11 @@ Start: 2.1k
 https://github.com/ShadyBoukhary/flutter_clean_architecture
 Fork: 162
 Start: 607
+<br/>
+https://github.com/Uuttssaavv/flutter-clean-architecture-riverpod
+Fork: 59
+Start: 126
+<br/>
 
 <h2>Nodejs (JS)
 </h2>
