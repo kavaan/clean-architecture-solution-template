@@ -16,7 +16,7 @@ https://github.com/ardalis/CleanArchitecture
 Fork: 2.k
 Start: 13.5
 
-</h2>Spring Boot (Java) </h2>
+<h2>Spring Boot (Java) </h2>
 https://github.com/anton-liauchuk/educational-platform
 Fork: 39
 Start: 173
