@@ -126,6 +126,7 @@ Fork: 575
 Start: 3.3k
 
 <br/>
+<hr/>
 <p>Key Points to Consider:
 
 * These projects have been designed with a focus on clean code principles.
