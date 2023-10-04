@@ -126,8 +126,9 @@ Fork: 575
 Start: 3.3k
 
 <br/>
-Key Points to Consider:
+<p>Key Points to Consider:
 
 * These projects have been designed with a focus on clean code principles.
 * After cloning any of these projects, you may need to tailor them to meet your specific requirements.
-* Always be mindful of the licenses associated with the code you use.
+* Always be mindful of the licenses associated with the code you use. </p>
+
