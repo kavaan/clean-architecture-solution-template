@@ -125,6 +125,7 @@ https://github.com/kudoleh/iOS-Clean-Architecture-MVVM
 Fork: 575
 Start: 3.3k
 
+<br/>
 Key Points to Consider:
 
 * These projects have been designed with a focus on clean code principles.
