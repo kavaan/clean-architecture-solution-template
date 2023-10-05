@@ -12,9 +12,9 @@ As a developer, you don’t always have to start from scratch. You can leverage 
 Fork: 3k
 Star: 13.4k
 <br/>
-🔸 https://github.com/jasontaylordev/CleanArchitecture
-Fork: 2.k
-Star: 13.5
+🔸 https://github.com/ardalis/CleanArchitecture
+Fork: 2.4k
+Star: 13.5k
 
 <h2>🔵 Spring Boot (Java) </h2>
 🔸 https://github.com/anton-liauchuk/educational-platform
